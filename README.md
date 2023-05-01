@@ -6,15 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/huseinkntrc" target="blank"><img src="https://img.shields.io/twitter/follow/huseinkntrc?logo=twitter&style=for-the-badge" alt="huseinkntrc" /></a> </p>
 
-- 🔭 I’m currently working on [Mojob](https://www.mojob.io/)
-
-- 🌱 I’m currently learning **Vue3, Django, Docker, Turborepo...**
-
 - 👨‍💻 Personal portfolio [https://huseink.dev/](https://huseink.dev/)
 
 - 📝 I regularly write articles on [https://huseink.dev/blog/](https://huseink.dev/blog/)
-
-- 💬 Ask me about **react, angular, vue, django, nodejs,python, typescript, javascript, mongodb, postgresql**
 
 - 📫 How to reach me **huseinkantarci@gmail.com**
 
