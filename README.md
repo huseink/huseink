@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Husein</h1>
 <h3 align="center">A passionate Full Stack Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseink&label=Profile%20views&color=0e75b6&style=flat" alt="huseink" /> </p>
-
 - 👨‍💻 Personal portfolio [https://huseink.dev/](https://huseink.dev/)
 
 - 📫 Contact **huseinkantarci@gmail.com**
