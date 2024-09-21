@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Husein</h1>
 <h3 align="center">A passionate Full Stack Engineer</h3>
 
+- 🔁 Gitlab [https://gitlab.com/huseinkntrc](https://gitlab.com/huseinkntrc)
 - 👨‍💻 Personal portfolio [https://huseink.dev/](https://huseink.dev/)
 
 - 📫 Contact **huseinkantarci@gmail.com**
