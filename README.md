@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Husein</h1>
-<h3 align="center">Full Stack Engineer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 - 🔁 Gitlab [https://gitlab.com/huseinkntrc](https://gitlab.com/huseinkntrc)
 - 👨‍💻 Personal portfolio [https://huseink.dev/](https://huseink.dev/)
